@@ -570,6 +570,12 @@ nav .fas{
       font-size: 14px;
    }
 
+    .skills_section{
+      width: 100%;
+      height: 75vh;
+   
+   }
+
 }
 
 #msg{
